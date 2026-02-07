@@ -15,7 +15,6 @@ Credit Wise is a machine learning project that predicts loan approval status bas
 - Matplotlib / Seaborn  
 - Jupyter Notebook  
 
-## Usage
-```bash
-git clone https://github.com/Ayushgit51/Credit-Wise-Loan-Prediction-.git
-jupyter notebook credit_wise_loan_code.ipynb
+## Author
+Ayush Kumar  
+Data Science and Machine Learning Enthusiast
